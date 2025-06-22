@@ -20,14 +20,14 @@ The model consists of two sequential components:
 
 🚀 Usage
 
-    Select Puzzles
-    Modify the PUZZLE_ID list in main.py to specify which puzzles to run.
+**    Select Puzzles:
+      Modify the PUZZLE_ID list in main.py to specify which puzzles to run.
 
-    Run the Model
+**    Run the Model:
 
-    python main.py
+      python main.py
 
-    Output
+**    Output
 
         Visualizations will be saved in the visualizations/ folder.
 
